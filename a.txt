@@ -1,2 +1,6 @@
 frank
 ker
+this
+is
+remote
+pc
